@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '经典宋体简';
+    src: url('/fonts/经典宋体简.ttf');
+}
+
+p {
+    text-indent: 2em;
+    font-family: '经典宋体简';
+}
