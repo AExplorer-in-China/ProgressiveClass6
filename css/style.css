@@ -1,9 +1,24 @@
 @font-face {
-    font-family: '经典宋体简';
-    src: url('/fonts/经典宋体简.ttf');
+    font-family: '方正书宋';
+    src: url('/ProgressiveClass6/fonts/方正书宋_GBK.ttf');
+}
+
+@font-face {
+    font-family: '方正准雅宋';
+    src: url('/ProgressiveClass6/fonts/方正书宋_GBK.ttf');
+}
+
+@font-face {
+    font-family: '方正仿宋';
+    src: url('/ProgressiveClass6/fonts/方正仿宋_GBK.ttf');
+}
+
+@font-face {
+    font-family: '方正黑体';
+    src: url('/ProgressiveClass6/fonts/方正黑体_GBK.ttf');
 }
 
 p {
     text-indent: 2em;
-    font-family: '经典宋体简';
+    font-family: '方正书宋';
 }
