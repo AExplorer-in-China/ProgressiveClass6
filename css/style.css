@@ -18,7 +18,24 @@
     src: url('/ProgressiveClass6/fonts/方正黑体_GBK.ttf');
 }
 
+@font-face {
+    font-family: '云飞风云体';
+    src: url('/ProgressiveClass6/fonts/云飞风云体.ttf');
+}
+
+h1.post-title {
+    font-family: '方正准雅宋';
+}
+
 p {
     text-indent: 2em;
     font-family: '方正书宋';
+}
+
+a.article-title {
+        font-family: '方正准雅宋';
+}
+
+div.content {
+        font-family: '方正书宋';
 }
